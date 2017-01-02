@@ -1,0 +1,12 @@
+name: FFA
+author: HOXSEC
+version: 1.0
+description: Custom FFA Plugin
+main: me.hoxsec.ffa.Main
+commands:
+    stats:
+        usage: /stats (player)
+        description: Statistics
+    resetstats:
+        usage: /resetstats (player)
+        description: Reset
